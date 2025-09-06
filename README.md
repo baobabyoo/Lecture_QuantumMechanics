@@ -25,13 +25,13 @@
 7. (Oct. 20 - Oct. 24): (五光復節放假)
 8. (Oct. 27 - Oct. 31): 三停課，五234期末考
 9. (Nov. 03 - Nov. 07): Griffiths Ch. 1, The Wave Function
-10 (Nov. 10 - Nov. 14): Griffiths Ch. 2, Time-Independent Schrodinger Equation
-11 (Nov. 17 - Nov. 21): Griffiths Ch. 2, Time-Independent Schrodinger Equation
-12 (Nov. 24 - Nov. 28): Griffiths Ch. 3, Formalism
-13 (Dec. 01 - Dec. 05): Griffiths Ch. 4, Quantum Mechanics in Three Dimensions
-14 (Dec. 08 - Dec. 12): Griffiths Ch. 4, Quantum Mechanics in Three Dimensions
-15 (Dec. 15 - Dec. 19): Griffiths Ch. 4, Quantum Mechanics in Three Dimensions
-16 (Dec. 22 - Dec. 26): 三停課，五234期末考
+10. (Nov. 10 - Nov. 14): Griffiths Ch. 2, Time-Independent Schrodinger Equation
+11. (Nov. 17 - Nov. 21): Griffiths Ch. 2, Time-Independent Schrodinger Equation
+12. (Nov. 24 - Nov. 28): Griffiths Ch. 3, Formalism
+13. (Dec. 01 - Dec. 05): Griffiths Ch. 4, Quantum Mechanics in Three Dimensions
+14. (Dec. 08 - Dec. 12): Griffiths Ch. 4, Quantum Mechanics in Three Dimensions
+15. (Dec. 15 - Dec. 19): Griffiths Ch. 4, Quantum Mechanics in Three Dimensions
+16. (Dec. 22 - Dec. 26): 三停課，五234期末考
 
 ## Assessment:
 - mid-term exam: 50%
